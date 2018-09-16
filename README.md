@@ -1,2 +1,3 @@
 # subject
-做过的题目，不当之处请指出
+create by liuzy 
+Here are some topics i hava done.Please point out where they are wrong.
